@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ritwik, and I have been a full-stack software Developer for the past 3 years. Proficient in modern frameworks and cloud technologies. I design and develop robust applications and solutions to meet diverse business needs.</p>
+<p align="left">Hi, I'm Ritwik. I've been working as a full-stack software developer for the past three years. Proficient in modern frameworks and cloud technologies, I specialize in designing and developing robust applications and solutions tailored to diverse business needs.</p>
 
 ###
 
